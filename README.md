@@ -2,7 +2,7 @@
 
 - 🌱 Hozirda  **Html, Css, JavaScript, Sass** ni o'rganyapman.
 
-- 📫 How to reach me **baxtibaybekniyazov@gmail.com**
+- 📫 Email **baxtibaybekniyazov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
