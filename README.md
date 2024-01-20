@@ -36,7 +36,7 @@ Frontend dasturchi. Dasturlashni 2022 yildan beri o'rganip kelyapman. Hozirda Ja
   </a>
 </p>
 
-
+## GitHub Statistikalar
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baxtibay&show_icons=true&locale=en&layout=compact" alt="baxtibay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxtibay&show_icons=true&locale=en" alt="baxtibay" /></p>
