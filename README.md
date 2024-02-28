@@ -1,8 +1,8 @@
 # Baxtibay Begniyazov
 
-Frontend dasturchi. Dasturlashni 2022 yildan beri o'rganip kelyapman. Hozirda JavaScriptni chuqirroq va uning React kutubxonasida ishlashni o'rganmoqchi bolgan dasturchi.
+Frontend dasturchi. Dasturlashni 2022 yildan beri o'rganip kelyapman. Hozirda JavaScriptni chuqirroq ishlashni o'rganmoqchi bolgan dasturchi.
 
-[Portfolio](https://myportfolio.uz) | [Telegram](https://t.me/Baxti_Programmer) | baxtibaybekniyazov@gmail.com
+[Portfolio](https://myportfolio.uz) | [Telegram](https://t.me/frontend_web_dasturchi ) | baxtibaybekniyazov@gmail.com
 
 ## Texnologiyalar
 
@@ -19,19 +19,17 @@ Frontend dasturchi. Dasturlashni 2022 yildan beri o'rganip kelyapman. Hozirda Ja
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
+
 
 ## GitHub Statistikalar
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baxtibay&show_icons=true&locale=en&layout=compact" alt="baxtibay" /></p>
