@@ -2,7 +2,7 @@
 
 Frontend dasturchi. Dasturlashni 2022 yildan beri o'rganip kelyapman. Hozirda JavaScriptni chuqirroq ishlashni o'rganmoqchi bolgan dasturchi.
 
-[Telegram](https://t.me/frontend_web_dasturchi ) | baxtibaybekniyazov@gmail.com
+[Telegram](https://t.me/frontend_web_devel0per ) | baxtibaybekniyazov@gmail.com
 
 ## Texnologiyalar
 
