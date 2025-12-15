@@ -1,10 +1,10 @@
 # Baxtibay Begniyazov
 
-Frontend dasturchi. Dasturlashni 2022 yildan beri o'rganip kelyapman. Hozirda JavaScriptni chuqirroq ishlashni o'rganmoqchi bolgan dasturchi.
+Frontend developer. I'm interested in developing comfortable and beautiful web applications for users. I am currently learning JavaScript and modern frontend technologies.
 
 [Telegram](https://t.me/baxti_frontend ) | baxtibaybekniyazov@gmail.com
 
-## Texnologiyalar
+## Texnologies
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -31,7 +31,7 @@ Frontend dasturchi. Dasturlashni 2022 yildan beri o'rganip kelyapman. Hozirda Ja
 </p>
 
 
-## GitHub Statistikalar
+## GitHub Statistics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baxtibay&show_icons=true&locale=en&layout=compact" alt="baxtibay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxtibay&show_icons=true&locale=en" alt="baxtibay" /></p>
