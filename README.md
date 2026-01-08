@@ -1,8 +1,22 @@
 # Baxtibay Begniyazov
 
-Frontend developer. I'm interested in developing comfortable and beautiful web applications for users. I am currently learning JavaScript and modern frontend technologies.
+## HTML-верстальщик / Junior Frontend Developer
+
+I work with: HTML5 · CSS3/SCSS · JavaScript (DOM) · Git/GitHub  
+Focus: adaptive, semantic, and cross-browser web layouts.  
+I build websites based on Figma designs and modern layout practices.
 
 [Telegram](https://t.me/baxti_frontend ) | baxtibaybekniyazov@gmail.com
+
+## 💼 My Projects
+
+### ☕ Coffee Roasters
+- Responsive landing page based on Figma design
+- Purpose: Simplifies the user experience by presenting coffee choices in a clean, structured layout that guides users step by step.
+- Tech: HTML, SCSS, JavaScript  
+- 🔗 Live demo: https://...
+- 📂 Repo: https://github.com/Baxtibay/coffe-roasters
+
 
 ## Texnologies
 
@@ -29,11 +43,3 @@ Frontend developer. I'm interested in developing comfortable and beautiful web a
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-
-
-## GitHub Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baxtibay&show_icons=true&locale=en&layout=compact" alt="baxtibay" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxtibay&show_icons=true&locale=en" alt="baxtibay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baxtibay&" alt="baxtibay" /></p>
