@@ -14,7 +14,7 @@ I build websites based on Figma designs and modern layout practices.
 - Responsive landing page based on Figma design
 - Purpose: Simplifies the user experience by presenting coffee choices in a clean, structured layout that guides users step by step.
 - Tech: HTML, SCSS, JavaScript  
-- 🔗 Live demo: https://...
+- 🔗 Live demo: https://baxti-coffe-roasters.netlify.app
 - 📂 Repo: https://github.com/Baxtibay/coffe-roasters
 
 
