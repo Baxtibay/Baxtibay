@@ -2,8 +2,8 @@
 
 ## HTML-верстальщик / Junior Frontend Developer
 
-I work with: HTML5 · CSS3/SCSS · JavaScript (DOM) · Git/GitHub  
-Focus: adaptive, semantic, and cross-browser web layouts.  
+***I work with:*** HTML5 · CSS3/SCSS · JavaScript (DOM) · Git/GitHub  
+***Focus:*** responsive, semantic, and cross-browser web layouts.  
 I build websites based on Figma designs and modern layout practices.
 
 [Telegram](https://t.me/baxti_frontend ) | baxtibaybekniyazov@gmail.com
